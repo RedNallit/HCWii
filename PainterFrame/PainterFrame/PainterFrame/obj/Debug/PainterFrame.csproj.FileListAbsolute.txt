@@ -1,0 +1,9 @@
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\bin\Debug\PainterFrame.exe
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\bin\Debug\PainterFrame.pdb
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.PainterFrame.resources
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.Properties.Resources.resources
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\ResGen.read.1.tlog
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\ResGen.write.1.tlog
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.exe
+C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.pdb

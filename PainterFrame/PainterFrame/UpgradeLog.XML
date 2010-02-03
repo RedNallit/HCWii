@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PainterFrame">
+</Property><Property Name="Solution File" Value="C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame.sln">
+</Property><Property Name="Date" Value="den 3 februari 2010">
+</Property><Property Name="Time" Value="17:59">
+</Property></Properties><Event ErrorLevel="0" Project="PainterFrame" Source="PainterFrame\PainterFrame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PainterFrame" Source="PainterFrame\PainterFrame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PainterFrame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PainterFrame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PainterFrame" Source="PainterFrame\PainterFrame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
