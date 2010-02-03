@@ -1,6 +1,6 @@
 namespace PainterFrame
 {
-    partial class Form1
+    partial class PainterFrame
     {
         /// <summary>
         /// Required designer variable.

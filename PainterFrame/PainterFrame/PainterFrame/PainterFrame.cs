@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace PainterFrame
 {
-    public partial class Form1 : Form
+    public partial class PainterFrame : Form
     {
-        public Form1()
+        public PainterFrame()
         {
             InitializeComponent();
         }
