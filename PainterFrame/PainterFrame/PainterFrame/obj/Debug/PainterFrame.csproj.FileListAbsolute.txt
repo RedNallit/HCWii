@@ -7,3 +7,5 @@ C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\ResGen.rea
 C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\ResGen.write.1.tlog
 C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.exe
 C:\Users\Jonte\HCWii\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.pdb
+C:\Documents and Settings\Marcus\Skrivbord\HVWii-git\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.exe
+C:\Documents and Settings\Marcus\Skrivbord\HVWii-git\PainterFrame\PainterFrame\PainterFrame\obj\Debug\PainterFrame.pdb
